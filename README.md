@@ -19,3 +19,6 @@ entrar a bspwm
 &dunst
 &polybar
 &sxhkd
+
+
+https://github.com/Paco9720/bspwm-config.git
